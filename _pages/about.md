@@ -13,4 +13,4 @@ I offer consultancy and training in the following areas:
 
 - AI use in education (course design, automated assessment, feedback and chatbots, prompting).
 - AI use in academia (research, data analysis, script programming).
-- Agile Team Based Learning (ATBL), which integrates Team Based and Project Based learning with an interative, agile prototyping.
+- Agile Team Based Learning (ATBL), which integrates Team Based and Project Based learning with an iterative, agile prototyping.
