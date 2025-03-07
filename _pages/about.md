@@ -8,7 +8,7 @@ redirect_from:
 
 Welcome. I am an academic psychologist specializing in education, development and innovative teaching methods. For years, I have been associated with the SWPS University, managing the international psychology degree program, crafting cross-national teaching collaborations, lecturing and supervising numerous diploma theses. 
 
-I offer training in the following areas:
+I offer consultancy and training in the following areas:
 ======
 
 - AI use in education (course design, automated assessment, feedback and chatbots, prompting).
